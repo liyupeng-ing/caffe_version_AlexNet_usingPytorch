@@ -1,3 +1,4 @@
+# Desription
 This is a simple script used to dump caffemodel weights to pth formats
 # Dependencies
 protobuf with Python bindings, including protoc binary in PATH,before this your must install pytorch,you can run it without caffe.
