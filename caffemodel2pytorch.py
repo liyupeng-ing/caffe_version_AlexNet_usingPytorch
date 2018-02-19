@@ -1,4 +1,4 @@
-#autor: gukedream
+#autor: liyupeng-ing 
 #date : 2018-02-18
 #This simple script is used to dump caffemodel weights to pth formats ,you should change the relative path according to your situation.
 import torch
